@@ -1,0 +1,67 @@
+MERCH STORE: https://society6.com/sophiebroderick
+
+
+<!-- blog section 3col -->
+<section id="blog-small">
+    <div class="container">
+        <div class="page-header no-margin text-center">
+            <h2>BUY PRINTS</h2>
+        </div>
+        <p class="text-center">Something Something Something</p>
+        <div class="row">
+
+            <!-- post-block -->
+            <div class="col-sm-4">
+                <div class="post-block">
+                    <a href="https://www.bonfire.com/3-oclock-shirts-dark-version/"><img src="images/icon3OCLOCKBLACK.jpg" alt=""></a>
+                    <div class="small-post-text">
+                        <h5><a href="https://www.bonfire.com/3-oclock-shirts-dark-version/">3 o'clock apparel (Dark Version)</a></h5>
+                        <p class="small-post-meta">JAN 1, 2019</p>
+                        <p class="space-bottom">Simple and elegant tops with double-sided designs.</p>
+                        <p class="small-post-footer">
+                            <a href="https://www.bonfire.com/3-oclock-shirts-dark-version/">VIEW</a>
+                            </span>
+                        </p>
+                    </div><!-- / small-post-text -->
+                </div><!-- / post-block -->
+            </div><!-- / col-md-4 -->
+            <!-- / post-block -->
+
+            <!-- post-block -->
+            <div class="col-sm-4">
+                <div class="post-block">
+                    <a href="https://www.bonfire.com/3-oclock-shirts/"><img src="images/icon3OCLOCKWHITE.jpg" alt=""></a>
+                    <div class="small-post-text">
+                        <h5><a href="https://www.bonfire.com/3-oclock-shirts/">3 o'clock apparel</a></h5>
+                        <p class="small-post-meta">JAN 1, 2019</p>
+                        <p class="space-bottom">Simple and elegant tops with double-sided designs.</p>
+                        <p class="small-post-footer">
+                            <a href="https://www.bonfire.com/3-oclock-shirts/">VIEW</a>
+                            </span>
+                        </p>
+                    </div><!-- / small-post-text -->
+                </div><!-- / post-block -->
+            </div><!-- / col-md-4 -->
+            <!-- / post-block -->
+
+            <!-- post-block -->
+            <div class="col-sm-4">
+                <div class="post-block">
+                    <a href="https://www.bonfire.com/river-eye/"><img src="images/iconRIVEREYE.jpg" alt=""></a>
+                    <div class="small-post-text">
+                        <h5><a href="https://www.bonfire.com/river-eye/">RiverEye shirt</a></h5>
+                        <p class="small-post-meta">JAN 1, 2019</p>
+                        <p class="space-bottom">A simple and elegant shirt with a minimalist design.</p>
+                        <p class="small-post-footer">
+                            <a href="https://www.bonfire.com/river-eye/">VIEW</a>
+                            </span>
+                        </p>
+                    </div><!-- / small-post-text -->
+                </div><!-- / post-block -->
+            </div><!-- / col-md-4 -->
+            <!-- / post-block -->
+
+        </div><!-- / row -->
+    </div><!-- / container -->
+</section>
+<!-- / blog section 3col -->
